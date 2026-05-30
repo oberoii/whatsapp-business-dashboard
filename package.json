@@ -1,0 +1,5 @@
+{
+  "name": "whatsapp-business-dashboard",
+  "version": "1.0.0",
+  "main": "server/app.js"
+}
