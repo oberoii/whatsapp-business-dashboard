@@ -1,5 +1,12 @@
 {
   "name": "whatsapp-business-dashboard",
   "version": "1.0.0",
-  "main": "server/app.js"
+  "private": true,
+  "main": "server/app.js",
+  "scripts": {
+    "dev": "node server/app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
